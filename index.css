@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-[#faf9f6] text-[#2d2d2d];
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[#8b7e74] hover:bg-[#766b62] text-white font-bold py-4 px-6 rounded-2xl transition-all shadow-lg shadow-[#8b7e74]/20;
+  }
+}
