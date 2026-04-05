@@ -1,0 +1,7 @@
+[31m[vite:build-html] Failed to resolve /src/main.tsx from C:/Users/Nathali/Desktop/guion-filosofia-materna/guion-filosofia-materna/index.html[39m
+file: [36mC:/Users/Nathali/Desktop/guion-filosofia-materna/guion-filosofia-materna/index.html[39m
+    at file:///C:/Users/Nathali/Desktop/guion-filosofia-materna/guion-filosofia-materna/node_modules/vite/dist/node/chunks/dep-D4NMHUTW.js:36314:29
+    at async Promise.all (index 0)
+    at async Object.handler (file:///C:/Users/Nathali/Desktop/guion-filosofia-materna/guion-filosofia-materna/node_modules/vite/dist/node/chunks/dep-D4NMHUTW.js:36511:11)
+    at async transform (file:///C:/Users/Nathali/Desktop/guion-filosofia-materna/guion-filosofia-materna/node_modules/rollup/dist/es/shared/node-entry.js:21657:16)
+    at async ModuleLoader.addModuleSource (file:///C:/Users/Nathali/Desktop/guion-filosofia-materna/guion-filosofia-materna/node_modules/rollup/dist/es/shared/node-entry.js:21885:36)
